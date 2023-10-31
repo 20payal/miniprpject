@@ -1,0 +1,33 @@
+.signIn{
+    background-image: url("https://images8.alphacoders.com/133/1331544.png");
+    background-size: cover;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.loginForm{
+    background-color: aliceblue;
+    padding: 30px;
+    border: 1px solid rgb(126, 122, 122);
+    border-radius: 1px;
+}
+.loginForm2{
+    background-color: transparent;
+    padding: 20px;
+    margin-top: 5px;
+    border: 1px solid rgb(126, 122, 122);
+    border-radius: 1px;
+    color: aliceblue;
+}
+#login-btn{
+    background-color: #1773ea;
+    border: none;
+    border-radius: 3px;
+    color: whitesmoke;
+    font-weight: bold;
+    padding: 5px 10px;
+    
+    cursor: pointer;
+    margin-top: 8px;
+}
